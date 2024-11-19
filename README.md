@@ -1,5 +1,9 @@
-## Hi there 👋
+# Julianna Lin
+####  🏫 University of California, Irvine
+####  🎓 Class of 2028
 
+### Contact Me:
+#### 📫 juliannalin9@gmail.com
 <!--
 **juliannalin/juliannalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
